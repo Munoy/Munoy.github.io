@@ -19,6 +19,10 @@ author:
 
 paginate:         5
 
+domain:           munoy.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url:              https://munoy.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl:          munoy.github.io       # place folder name if the site is served in a subfolder
+
 # Custom vars
 version:          2.1.0
 
